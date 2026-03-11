@@ -1,5 +1,5 @@
 """
-Aim: Write a program to demonstrate tuple & related functions in python.
+Aim: Write a program to demonstrate dictionaries & related functions in python.
 """
 
 def dictionaries():
